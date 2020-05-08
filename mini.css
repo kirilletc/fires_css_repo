@@ -3,6 +3,11 @@
     height: 48px;
 }
 
+/*изменить row 21 in https://fires.ru/style.css*/
+a.logo {
+    margin-left: -6px;
+}
+
 /*изменить row 36 in https://fires.ru/style.css*/
 .logo_left {
     transform: scale(0.8);
