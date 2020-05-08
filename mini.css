@@ -3,12 +3,18 @@
     height: 48px;
 }
 
-/*изменить row 21 in https://fires.ru/style.css*/
-a.logo {
+/*изменить row 36 in https://fires.ru/style.css*/
+.logo_left {
     transform: scale(0.8);
+    margin-right: 10px;
+    left: 17px;
     position: relative;
-    right: 20px;
 }
+
+/*изменить row 46 in https://fires.ru/style.css*/
+.logo_right {
+    transform: scale(0.8);
+}	
 
 /*изменить row 72 in https://fires.ru/style.css*/
 a.block_right_1 {
